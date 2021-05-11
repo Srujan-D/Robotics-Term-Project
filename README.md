@@ -15,6 +15,11 @@ We have made a presentation about the different aspects of the SPOT quadruped, a
 
 Most of the documentation are speculations, as Boston Dynamics does not release any information about its robots.
 
+The following resources were used:
+1) Boston Dynamics SDK documentation
+2) Reddit threads
+3) Boston Dynamics Patents
+
 If you have more interesting points about SPOT, feel free to reach out at f2011139@pilani.bits-pilani.ac.in.
 
 Thank you.
