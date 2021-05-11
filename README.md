@@ -20,6 +20,6 @@ The following resources were used:
 2) Reddit threads
 3) Boston Dynamics Patents
 
-If you have more interesting points about SPOT, feel free to reach out at f2011139@pilani.bits-pilani.ac.in.
+If you have more interesting points about SPOT, feel free to reach out at f20191139@pilani.bits-pilani.ac.in.
 
 Thank you.
