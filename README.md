@@ -1,7 +1,12 @@
-# Robotics-Term-Project
-Project Title: Studies and Advances in development of SPOT by Boston Dynamics
+# BITS Pilani Robotics Course Term Project
 
-Project Members:
+**University:** Birla Institute of Technology and Science, Pilani
+
+**Project Title:** Studies and Advances in development of SPOT by Boston Dynamics
+
+**Course:** BITS F441 - Robotics
+
+**Project Members:**
 1) Srujan Deolasee (2019A7PS1139P)
 2) Tanishq Duhan (2019B5A70636P)
 
